@@ -6,6 +6,6 @@
 
 Building a Zero-Threshold AI Interaction Ecosystem
 
-👉 English | [简体中文](README_CN.md)
+👉 [English](./README.md) | 简体中文
 
 </div>
