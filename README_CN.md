@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="pics/logo/sovolution.png" width="100" height="100" alt="logo">
+<img src="pics/logo/Sovolution.png" width="100" height="100" alt="logo">
 
-# Suvolution
+# [素问]()
 
 Building a Zero-Threshold AI Interaction Ecosystem
 
