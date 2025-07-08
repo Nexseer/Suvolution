@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="pics/logo/Suvolution.png" width="100" height="100" alt="logo">
+<img src="pics/logo/Suvolution.png" width="200" height="200" alt="logo">
 
 # [素问]()
 
