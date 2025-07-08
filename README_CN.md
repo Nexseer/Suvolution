@@ -4,7 +4,7 @@
 
 # [素问]()
 
-Building a Zero-Threshold AI Interaction Ecosystem
+构建零门槛 AI 交互生态
 
 👉 [English](./README.md) | 简体中文
 
